@@ -24,4 +24,4 @@ As my largest python script yet, I worked to make the function definitions as mo
   - tkinter
 All of these modules are installable at the command line using pip install.  
   
-By default, data points are periodically collected every 10 minutes. To customize this, change the data_frequency variable in the 'PROGRAM LOGIC' section. This variable takes in a number of seconds between each point. 
+By default, data points are periodically collected every 10 minutes. To customize this, change the data_frequency variable in the  'PROGRAM LOGIC' section. This variable takes in a number of seconds between each point. 

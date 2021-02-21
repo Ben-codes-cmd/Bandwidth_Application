@@ -21,7 +21,7 @@ As my largest python script yet, I worked to make the function definitions as mo
   - pandas
   - seaborn
   - matplotlib
-  - tkinter
+  - tkinter  
 All of these modules are installable at the command line using pip install.  
   
 By default, data points are periodically collected every 10 minutes. To customize this, change the data_frequency variable in the  

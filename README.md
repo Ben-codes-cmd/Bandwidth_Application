@@ -8,10 +8,10 @@ This project utilizes python modules such as:
 - the Python csv library allows for long term data storage
 - pandas converts csv files into convenient dataframes for graphing lines
 
-This program covers exception handling and formatting for elements requiring user input.
-Within the graphing window, I have incorporated a responsive button to terminate the program.
-
-As my largest python script yet, I worked to make the function definitions as modular and readable as possible to make for easy debugging.
+This program covers exception handling and formatting for elements requiring user input.  
+Within the graphing window, I have incorporated a responsive button to terminate the program.  
+  
+As my largest python script yet, I worked to make the function definitions as modular and readable as possible to make for easy debugging.  
 
 ## HOW TO USE
 - Upon downloading the zipped file linked in the repository, extract and view the contents of the folder. 
@@ -22,6 +22,6 @@ As my largest python script yet, I worked to make the function definitions as mo
   - seaborn
   - matplotlib
   - tkinter
-All of these modules are installable at the command line using pip install.
-
+All of these modules are installable at the command line using pip install.  
+  
 By default, data points are periodically collected every 10 minutes. To customize this, change the data_frequency variable in the 'PROGRAM LOGIC' section. This variable takes in a number of seconds between each point. 

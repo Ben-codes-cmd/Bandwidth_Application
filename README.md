@@ -1,4 +1,4 @@
-# Bandwidth_Application
+# Bandwidth Application
 Track your machine's network throughput with a real time graph displaying bytes sent and received.
 ## Program Features and Specifics
 This project utilizes python modules such as:

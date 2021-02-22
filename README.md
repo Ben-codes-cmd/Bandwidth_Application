@@ -15,7 +15,7 @@ As my largest python script yet, I worked to make the function definitions as mo
   
 There are two parts to this project:
  - 'Bandwidth Application.py', the main data tracker and live graphing portion
- - 'Graph_Opener.py' to open a previously recorded dataset
+ - 'Graph_Opener.py' that opens a previously recorded dataset
 
 ## HOW TO USE
 - Upon downloading the zipped file linked in the repository, extract and view the contents of the folder. 

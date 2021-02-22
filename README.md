@@ -25,4 +25,8 @@ As my largest python script yet, I worked to make the function definitions as mo
 All of these modules are installable at the command line using pip install.  
   
 By default, data points are periodically collected every 10 minutes. To customize this, change the data_frequency variable in the  
-'PROGRAM LOGIC' section. This variable takes in a number of seconds between each point. 
+'PROGRAM LOGIC' section. This variable takes in a number of seconds between each point.  
+  
+- To start a new session, choose the 'Bandwidth Application' file and run it at the command line in the python environment  
+ 
+- To open an existing dataset, choose the 'Graph_Opener' file and run it at the command line in the python environment 

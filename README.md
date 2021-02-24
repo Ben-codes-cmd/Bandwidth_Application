@@ -19,7 +19,7 @@ There are two parts to this project:
 
 ## HOW TO USE
 - Upon downloading the zipped file linked in the repository, extract and view the contents of the folder. 
-- If you only wish to view the functioning programs but not modify the code, an executable file is included for both scripts that have all necessary dependencies embedded. Simply click, and experience the program.
+- If you only wish to view the functioning programs but not modify the code, an executable file is included for both scripts that have all necessary dependencies embedded. Simply click, and experience the program. (Windows Users Only)
 - If you wish to make changes to the code, you will want to make sure that all of the following dependencies are installed on your machine.
   - psutil
   - pandas

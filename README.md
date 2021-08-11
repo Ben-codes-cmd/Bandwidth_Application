@@ -5,7 +5,7 @@ This project utilizes python modules such as:
 - psutil - a handy system utility module to retrieve system bandwidth information
 - seaborn (built and customized with matplotlib) for graphing
 - tkinter provides a clean, interactive graphical user interface
-- the Python csv library allows for long term data storage
+- Python csv library allows for long term data storage
 - pandas converts csv files into convenient dataframes for graphing lines
 
 This program covers exception handling and formatting for elements requiring user input.  
@@ -19,8 +19,7 @@ There are two parts to this project:
 
 ## HOW TO USE
 - Upon downloading the zipped file linked in the repository, extract and view the contents of the folder. 
-- If you only wish to view the functioning programs but not modify the code, an executable file is included for both scripts that have all necessary dependencies embedded. Simply click, and experience the program. (Windows Users Only)
-- If you wish to make changes to the code, you will want to make sure that all of the following dependencies are installed on your machine.
+- If you wish to make changes to the code, you will want to make sure that all of the following dependencies are installed in your execution environment.
   - psutil
   - pandas
   - seaborn
